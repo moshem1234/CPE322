@@ -30,3 +30,18 @@
 |CPE 517|Digital & Comp Sys Architecture|
 |IDE 399|Engineering Economics & Project Management|
 |HSS 121|Intro Urban Studies|
+
+### Code Example
+
+```js
+[
+  {"type":"directory","name":".","contents":[
+    {"type":"file","name":"test.sh"},
+    {"type":"file","name":"test.txt"},
+    {"type":"file","name":"tet.py"},
+    {"type":"file","name":"tree.json"}
+  ]}
+,
+  {"type":"report","directories":0,"files":4}
+]
+```
