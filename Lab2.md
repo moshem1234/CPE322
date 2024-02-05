@@ -16,6 +16,8 @@ Print or set the hostname of the current system.
 MOSHE
 ```
 
+---
+
 ### Command
 
 `env`
@@ -27,6 +29,8 @@ Prints out Environment Variables for the current system.
 ### Output
 
 *Output hidden for privacy*
+
+---
 
 ### Command
 
@@ -46,6 +50,8 @@ Reports process status.
       651       1     651      24172  ?         197610 10:44:49 /usr/bin/mintty
 ```
 
+---
+
 ### Command
 
 `pwd`
@@ -60,6 +66,8 @@ Print the name of the current working directory.
 /home/Moshe
 ```
 
+---
+
 ### Command
 
 `git clone https://github.com/kevinwlu/iot.git`
@@ -71,6 +79,8 @@ Clones the iot repository into a newly created directory.
 ### Output
 
 ![image](Images/Lab2_Clone.png)
+
+---
 
 ### Command
 
@@ -84,6 +94,8 @@ Change the current directory to iot, then lists information about the files insi
 
 ![image](Images/Lab2_LS.png)
 
+---
+
 ### Command
 
 `cd`
@@ -95,6 +107,8 @@ Change the current directory back to the home directory (~ i.e. /home/Moshe)
 ### Output
 
 ![image](Images/Lab2_CD.png)
+
+---
 
 ### Command
 
@@ -112,6 +126,8 @@ C:/msys64      486965244 386233500 100731744  80% /
 G:             486965244 391270088  95695156  81% /g
 ```
 
+---
+
 ### Command
 
 `mkdir demo && cd demo`
@@ -124,6 +140,8 @@ Creates the directory demo then changes the current directory to the newly creat
 
 ![image](Images/Lab2_Demo.png)
 
+---
+
 ### Command
 
 `nano file`
@@ -135,6 +153,8 @@ Opens a text editor within the command line to edit the file 'file'.
 ### Output
 
 ![image](Images/Lab2_Nano.png)
+
+---
 
 ### Command
 
@@ -150,6 +170,8 @@ Prints the contents of the file 'file'.
 Hello World
 ```
 
+---
+
 ### Command
 
 `cp file file1`
@@ -157,6 +179,8 @@ Hello World
 ### Explanation
 
 Copies file into an additional file 'file1'.
+
+---
 
 ### Command
 
@@ -166,6 +190,8 @@ Copies file into an additional file 'file1'.
 
 Renames file, now calling it 'file2'.
 
+---
+
 ### Command
 
 `rm file2`
@@ -173,6 +199,8 @@ Renames file, now calling it 'file2'.
 ### Explanation
 
 Removes the file 'file2'.
+
+---
 
 ### Command
 
@@ -186,6 +214,8 @@ Clears the terminal's text, leaving an empty shell.
 
 ![image](Images/Lab2_Clear.png)
 
+---
+
 ### Command
 
 `man uname`
@@ -194,9 +224,13 @@ Clears the terminal's text, leaving an empty shell.
 
 Opens up an manual within the terminal with information about the command 'uname'.
 
+---
+
 ### Output
 
 ![image](Images/Lab2_Man.png)
+
+---
 
 ### Command
 
@@ -211,6 +245,8 @@ Print certain system information.
 ```txt
 MINGW64_NT-10.0-19045 MOSHE 3.4.10.x86_64 2023-12-22 10:06 UTC x86_64 Msys
 ```
+
+---
 
 ### Command
 
@@ -262,6 +298,8 @@ Wireless LAN adapter Wi-Fi:
    Default Gateway . . . . . . . . . : 192.168.1.1
 ```
 
+---
+
 ### Command
 
 `ping localhost`
@@ -285,6 +323,8 @@ Approximate round trip times in milli-seconds:
     Minimum = 0ms, Maximum = 0ms, Average = 0ms
 ```
 
+---
+
 ### Command
 
 `netstat`
@@ -296,6 +336,8 @@ Displays protocol statistics and current TCP/IP network connections.
 ### Output
 
 *Output hidden for privacy*
+
+---
 
 ## Sources
 
