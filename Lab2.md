@@ -1,4 +1,4 @@
-# CPE 322 Lab 1
+# CPE 322 Lab 2
 
 ## Moshe Moskowitz
 
