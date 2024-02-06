@@ -11,3 +11,17 @@
 ### Errors
 
 ![Image](Images/Lab3_Terminal3.png)
+
+### Updated Command Input
+
+#### Old Input (From Slides)
+
+`python3 coordinates.py 'SC Williams Library'`
+
+#### New Input
+
+`python3 coordinates.py 'Samuel C Williams Library'`
+
+### Updated Outcome
+
+![Image](Images/Lab3_Terminal5.png)
