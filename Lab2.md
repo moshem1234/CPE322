@@ -252,13 +252,13 @@ MINGW64_NT-10.0-19045 MOSHE 3.4.10.x86_64 2023-12-22 10:06 UTC x86_64 Msys
 
 #### From Slides
 
-`ifconfig`
+`ifconfig` (Intended for Linux Systems)
 
 #### Output Error
 
 ![Image](Images/Lab2_Error.png)
 
-#### Assumed Correction
+#### Assumed Correction (Windows)
 
 `ipconfig`
 
