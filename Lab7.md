@@ -6,7 +6,7 @@
 
 ![Image](Images/Lab7_Install.png)
 
-### Posting Data to Google Sheet
+### Posting Data
 
 #### Terminal
 
@@ -17,3 +17,7 @@
 #### Spreadsheet
 
 ![Image](Images/Lab7_Spreadsheet.png)
+
+#### ThingSpeak
+
+![Image](Images/Lab7_ThingSpeak.png)
