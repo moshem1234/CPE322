@@ -28,7 +28,7 @@
 
 ![Image](Images/Lab8_Plot4.png)
 
-#### Vertical Box Plot of Temperature
+#### Vertical Box Plot of Memory
 
 ![Image](Images/Lab8_Plot5.png)
 
